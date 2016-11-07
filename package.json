@@ -9,6 +9,9 @@
   "author": "Rishabh Khanna",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "handlebars": "^4.0.5",
+    "hbs": "^4.0.1",
+    "parse": "^1.9.2"
   }
 }
